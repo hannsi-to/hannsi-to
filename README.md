@@ -11,7 +11,4 @@
   <a href="https://github.com/hannsi-to">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hannsi-to/contributions.svg" />
   </a>
-  <a href="https://github.com/hannsi-to>
-    <img height="20" src="https://badgen.org/img/zenn/hannsi-to/articles?style=plastic" />
-  </a>
 </p>
