@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=header&text=hannsi-to&fontSize=40&fontColor=F7F7F7"/>
 </p>
 
-### Hi, I am hannsi 👋
+## Hi, I am hannsi-to 👋
 
 ---
 
 🌙 **About Me**
-- 🎓 Student. Passionate about building and learning
+- 🎓 College students living in Japan🇯🇵. I enjoy learning new things.
 - ☕ Java & C/C++ enthusiast
 - 🎨 Graphics APIs: OpenGL, Vulkan
 - 🍕 Gets excited reading code
