@@ -14,16 +14,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hannsi-to&theme=gruvbox&no-bg=true&no-frame=true"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats-rust-eight-69.vercel.app/api?username=hannsi-to&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
